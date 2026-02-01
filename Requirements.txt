@@ -1,0 +1,3 @@
+TO run this you need:
+1. python
+2. pip install requests ping3 in cmd
